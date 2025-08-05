@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Menú de Ejercicios PHP</title>
-    <link rel="stylesheet" href="estilo.css">
+    <link rel="stylesheet" href="../estilo.css">
 </head>
 
 <body>
